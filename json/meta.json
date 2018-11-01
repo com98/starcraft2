@@ -1,0 +1,25 @@
+{
+    "GameVersion": "3.16.1.55958", 
+    "DataBuild": "55958", 
+    "BaseBuild": "Base55958", 
+    "Title": "\u6df1\u6d77\u6697\u7901 - \u5929\u68af\u7248", 
+    "Players": [
+        {
+            "AssignedRace": "Zerg", 
+            "PlayerID": 1, 
+            "MMR": 3763, 
+            "SelectedRace": "Zerg", 
+            "Result": "Win", 
+            "APM": 118.0
+        }, 
+        {
+            "AssignedRace": "Zerg", 
+            "PlayerID": 2, 
+            "MMR": 3951, 
+            "SelectedRace": "Zerg", 
+            "Result": "Loss", 
+            "APM": 194.0
+        }
+    ], 
+    "Duration": 1036
+}
