@@ -1,0 +1,25 @@
+{
+    "Title": "深海暗礁 - 天梯版",
+    "GameVersion": "3.16.1.55958",
+    "DataBuild": "55958",
+    "BaseBuild": "Base55958",
+    "Duration": 1036,
+    "Players": [
+        {
+            "PlayerID": 1,
+            "MMR": 3763,
+            "APM": 118.000000,
+            "Result": "Win",
+            "SelectedRace": "Zerg",
+            "AssignedRace": "Zerg"
+        },
+        {
+            "PlayerID": 2,
+            "MMR": 3951,
+            "APM": 194.000000,
+            "Result": "Loss",
+            "SelectedRace": "Zerg",
+            "AssignedRace": "Zerg"
+        }
+    ]
+}
